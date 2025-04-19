@@ -55,20 +55,19 @@ CECOS University of IT and Emerging Sciences
 
 ## 📊 GitHub Analytics
 
-<!-- Dynamic contribution counter using GitHub API -->
+<!-- Dynamic stats section -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoftTac&theme=dark" alt="Contribution Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoftTac&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftTac&theme=dark&layout=compact&hide_border=true" alt="Top Languages"/>
+  <br>
+  <img src="https://ghchart.rshah.org/SoftTac" alt="Contribution Graph"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoftTac&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftTac&theme=dark&layout=compact&hide_border=true" alt="Top Languages"/>
-</div>
-
-<!-- Dynamic contribution calendar -->
+<!-- Dynamic last update timestamp -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/SoftTac" alt="Contribution Graph"/>
+  <small>Last updated on: {{date}}</small>
 </p>
 
 ## 📫 Let's Collaborate!
