@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** with a Bachelor's degree in Software Engi
 
 ## 🔥 Highlights
 
-- 🎓 **BSSE in Software Engineering** with a CGPA of 3.41/4.0
+- 🎓 **BSSE in Software Engineering** 
 - 🏆 Developed award-winning medical AI systems with **94.94% accuracy**
 - 🧠 Full-stack AI developer specializing in healthcare applications
 - 📜 Certified in **Flutter, Dart, AI, and Data Analysis**
