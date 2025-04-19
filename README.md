@@ -51,23 +51,29 @@ I'm a passionate **Software Engineer** with a Bachelor's degree in Software Engi
 
 **Bachelor of Science in Software Engineering**  
 CECOS University of IT and Emerging Sciences  
-*Oct 2020 – Sep 2024 | *
+*Oct 2020 – Sep 2024*
 
-**Key Coursework:**  
-- Artificial Intelligence 
-- Machine Learning 
-- Medical Image Processing
-- Data Structures & Algorithms
+## 📊 GitHub Analytics
 
-## 📌 Currently
+<!-- Dynamic contribution counter using GitHub API -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoftTac&theme=dark" alt="Contribution Streak"/>
+</p>
 
-- 🔭 Working on AI-powered healthcare solutions
-- 🌱 Mastering backend development (Node.js, Django)
-- 💡 Exploring federated learning for medical AI
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoftTac&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftTac&theme=dark&layout=compact&hide_border=true" alt="Top Languages"/>
+</div>
+
+<!-- Dynamic contribution calendar -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/SoftTac" alt="Contribution Graph"/>
+</p>
 
 ## 📫 Let's Collaborate!
 
-<div id="badges">
+<div align="center">
   <a href="mailto:ahmadkhanpakistan987@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -78,12 +84,6 @@ CECOS University of IT and Emerging Sciences
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
-## 📊 GitHub Footprint
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftTac&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftTac&theme=dark&layout=compact&hide_border=true)](https://github.com/SoftTac)
 
 ---
 
