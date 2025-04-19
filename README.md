@@ -51,7 +51,7 @@ I'm a passionate **Software Engineer** with a Bachelor's degree in Software Engi
 
 **Bachelor of Science in Software Engineering**  
 CECOS University of IT and Emerging Sciences  
-*Oct 2020 – Sep 2024 | CGPA: 3.41/4.0*
+*Oct 2020 – Sep 2024 | *
 
 **Key Coursework:**  
 - Artificial Intelligence 
