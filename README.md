@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Ahmad Khalil Khattak! 👋
 
 ## 🚀 About Me
@@ -84,6 +83,4 @@ _CECOS University of IT and Emerging Sciences_
 
 ⭐️ _"Building bridges between AI innovation and healthcare impact – one algorithm at a time."_  
 *Let's connect and create something extraordinary!* 🚀
-```
 
----
