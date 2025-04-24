@@ -51,7 +51,7 @@ A passionate **Software Engineer** with expertise in **AI, Machine Learning**, a
 > 🔄 Optimized TensorFlow model for **cross-platform Flutter deployment**  
 > ⚡ Real-time results on mobile with **TFLite**
 
-🎥 [Watch the Project Demo](https://youtu.be/71AsYo2q_0Y?si=hnZzUm4nM0foAd0f)
+
 
 ---
 
